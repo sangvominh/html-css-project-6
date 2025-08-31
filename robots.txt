@@ -1,0 +1,4 @@
+User-agent: Googlebot
+Disallow: /dang-ky.html
+
+Sitemap: https://html-css-project-6-jade.vercel.app/
